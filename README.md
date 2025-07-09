@@ -35,6 +35,7 @@ I’m solving 400+ problems to prepare for product-based company interviews.
 
 ## 📂 Folder Example
 
+```plaintext
 DSA/
 ├── Arrays/
 ├── Strings/
