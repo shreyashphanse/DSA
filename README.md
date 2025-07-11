@@ -15,7 +15,7 @@ I’m solving 400+ problems to prepare for product-based company interviews.
 
 | Topic       | Problems Solved |
 | ----------- | --------------- |
-| Arrays      | 1               |
+| Arrays      | 6               |
 | Strings     | 0               |
 | HashMap     | 0               |
 | LinkedLists | 0               |
